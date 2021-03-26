@@ -1,0 +1,14 @@
+{
+    "name": "tcb_scf2hosting",
+    "version": "1.0.0",
+    "description": "使用云函数上传文件到静态网站托管",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@cloudbase/manager-node": "latest"
+    },
+    "author": "XiaoLin",
+    "license": "ISC"
+}
